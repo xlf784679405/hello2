@@ -18,5 +18,8 @@ public class AppMD5PasswordEncoder implements PasswordEncoder {
 		String loginPwd = encode(rawPassword);
 		return loginPwd.equals(encodedPassword);
 	}
+	public void test(){
+	}
+
 
 }
