@@ -20,6 +20,8 @@ public class AppMD5PasswordEncoder implements PasswordEncoder {
 	}
 	public void test(){
 	}
+	public void test1(){
+	}
 
 
 }
